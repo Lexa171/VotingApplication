@@ -6,7 +6,7 @@ VotingApplication Version 1.0 12/06/2017
 - The program was tested on Windows 7 sp1;
 - Apache Tomcat Server;
 - DB PostgreSQL;
-- Time wasted: 3 working days.
+- Spended: 3 working days.
 
 Deployment instructions:
 After starting the project, set the parameter 
