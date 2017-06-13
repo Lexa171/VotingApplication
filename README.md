@@ -9,6 +9,7 @@ VotingApplication Version 1.0 12/06/2017
 - Spended: 3 full days working = 8 hours
 
 Deployment instructions:
+Before starting the program, create a database called mybd.
 After starting the project, set the parameter 
 
   jpa:
