@@ -6,7 +6,6 @@ VotingApplication Version 1.0 12/06/2017
 - The program was tested on Windows 7 sp1;
 - Apache Tomcat Server;
 - DB PostgreSQL;
-- Spended: 3 full days working = 8 hours
 
 Deployment instructions:
 Before starting the program, create a database called mybd.
